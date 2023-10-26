@@ -96,21 +96,15 @@ body{
   animation-duration: 2s;
 }
 
-#animation_know{
-  animation-timing-function: ease-in;
-  animation-delay: 2s;
-  animation-duration: 2s;
-}
-
 #animation_links{
   animation-timing-function: ease-in;
-  animation-delay: 3s;
+  animation-delay: 4s;
   animation-duration: 3s;
 }
 
 #animation_website{
   animation-timing-function: ease-in;
-  animation-delay: 4s;
+  animation-delay: 3s;
   animation-duration: 4s;
 }
 
